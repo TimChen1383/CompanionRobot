@@ -10,3 +10,5 @@
 
 ### Switching betwwen player and robot
 ![SwitchingPlayer](https://github.com/user-attachments/assets/841f7002-ecde-47cb-ab06-1aeb5e8a0747)
+### Foot IK
+![FootIK](https://github.com/user-attachments/assets/81ecdbc4-a8c3-462c-868d-96b0334b9c26)
