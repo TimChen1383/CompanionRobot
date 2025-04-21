@@ -14,3 +14,5 @@
 ![FootIK](https://github.com/user-attachments/assets/81ecdbc4-a8c3-462c-868d-96b0334b9c26)
 ### Walking on the wall surface
 ![WalkingOnWall](https://github.com/user-attachments/assets/e688e8f7-bb15-42b1-b384-8c111331b636)
+### Rotate at the wall corner
+![RotateAtWallCorner](https://github.com/user-attachments/assets/3a8b8019-bad6-44a8-a45a-1c48814e54a9)
