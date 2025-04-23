@@ -2,7 +2,7 @@
 - Unreal Engine version : 5.5
 
 ### Spider Companion Robot
-- Demo Level : SpideRobot_Demo
+- Demo Level : SpiderRobot_Demo
 - A spider like companion robot with procedural IK walking animtion.
 - Press "P" to switch to bertween companion robot and player
 - Press "Space Bar" to jump or rotate to different surface
@@ -34,4 +34,15 @@
 - "Left Click Mouse" to fire in battle mode
 
 ![Fire](https://github.com/user-attachments/assets/27dc76ac-cec5-461e-88cb-df7cb82c77d5)
+
+### Submarine Companion Robot
+- Demo Level : DroneRobot_Demo
+- A drone like companion robot
+- Press "Spacebar" to fly
+
+![Fly](https://github.com/user-attachments/assets/d562c41b-1ea5-435b-9623-5a7e223b0621)
+- Press "W/A/S/D" to control thrusters
+
+![Thruster](https://github.com/user-attachments/assets/5f706063-a1fc-45d3-a9d3-46d5f4c918dc)
+
 
