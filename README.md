@@ -22,7 +22,7 @@
 
 ![RotateAtWallCorner](https://github.com/user-attachments/assets/3a8b8019-bad6-44a8-a45a-1c48814e54a9)
 
-### Submarine Companion Robot
+### Submarine Companion Robot (WIP)
 - Demo Level : SubmarineRobot_Demo
 - A submarine like companion robot
 - Press "W/A/S/D" to move
@@ -35,7 +35,7 @@
 
 ![Fire](https://github.com/user-attachments/assets/27dc76ac-cec5-461e-88cb-df7cb82c77d5)
 
-### Submarine Companion Robot
+### Drone Companion Robot (WIP)
 - Demo Level : DroneRobot_Demo
 - A drone like companion robot
 - Press "Spacebar" to fly
