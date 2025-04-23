@@ -22,5 +22,9 @@
 - Demo Level : SubmarineRobot_Demo
 - A submarine like companion robot
 - Press "W/A/S/D" to move
+- ![Move](https://github.com/user-attachments/assets/4a0d650c-3b24-4ce6-b4ee-90eaa423fe41)
 - "Right Click Mouse" to transform between battle mode and normal mode
-- "Left Click Mouse" to shoot in battle mode
+- ![Transform](https://github.com/user-attachments/assets/743c9f29-d014-4ce4-bf89-acc311c146a2)
+- "Left Click Mouse" to fire in battle mode
+- ![Fire](https://github.com/user-attachments/assets/27dc76ac-cec5-461e-88cb-df7cb82c77d5)
+
