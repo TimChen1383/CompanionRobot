@@ -18,7 +18,7 @@
 - Rotate at the wall corner
 - ![RotateAtWallCorner](https://github.com/user-attachments/assets/3a8b8019-bad6-44a8-a45a-1c48814e54a9)
 
-### Spider Companion Robot
+### Submarine Companion Robot
 - Demo Level : SubmarineRobot_Demo
 - A submarine like companion robot
 - Press "W/A/S/D" to move
